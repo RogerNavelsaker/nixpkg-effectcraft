@@ -1,6 +1,6 @@
 # nixpkg-effectcraft
 
-Nix package for [ArtCraft Effectcraft](https://github.com/storytold/effectcraft), using its official Linux x86_64 release archive. The package installs the app directly; it does not include the ArtCraft launcher or provide an auto-updater.
+Nix package for [ArtCraft EffectCraft](https://github.com/storytold/effectcraft), using its official Linux x86_64 release archive. The package installs the app directly; it does not include the ArtCraft launcher or provide an auto-updater.
 
 Pinned upstream release: `v0.16.0`.
 
