@@ -1,0 +1,24 @@
+{
+  "source": {
+    "type": "github-release",
+    "owner": "storytold",
+    "repo": "effectcraft",
+    "version": "0.16.0",
+    "tag": "v0.16.0",
+    "archive": "effectcraft-0.16.0-linux-x86_64.tar.gz",
+    "url": "https://github.com/storytold/effectcraft/releases/download/v0.16.0/effectcraft-0.16.0-linux-x86_64.tar.gz",
+    "hash": "sha256-kbQNqeGL5JFXRnqW23svv3wgtRgtjEFcWb7VFZG8HeA="
+  },
+  "package": {
+    "repo": "effectcraft",
+    "version": "0.16.0"
+  },
+  "binary": {
+    "name": "effectcraft"
+  },
+  "meta": {
+    "description": "Effectcraft, an open-source creative app from the ArtCraft Craft app suite",
+    "homepage": "https://github.com/storytold/effectcraft",
+    "licenseSpdx": "MIT OR Apache-2.0"
+  }
+}
